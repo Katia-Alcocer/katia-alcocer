@@ -1,4 +1,12 @@
-## Hi there 👋
+# ¡Hola! 👋
+Soy Katia Alcocer, estudiante y apasionada por la tecnología.
+
+ Estoy aprendiendo Git, GitHub, bases de datos y desarrollo web.  
+ Me interesan los proyectos que ayuden a mi comunidad.  
+ Siempre con ganas de aprender y compartir.
+
+¡Gracias por visitar mi perfil!
+
 
 <!--
 **Katia-Alcocer/katia-alcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
